@@ -49,6 +49,6 @@ https://dashboard.epe.gov.br/apps/pdgd/
 
 Data Dictionary
 
-A detailed description of all variables used in this study is provided in Table S1 (Metadata).
+A detailed description of all variables used in this study is provided in Metadata.
 
 The datasets (Sheets 1–3) include time-series and scenario-based variables derived from the proposed techno-economic model, ensuring full transparency and reproducibility of the results.
