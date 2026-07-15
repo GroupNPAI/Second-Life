@@ -29,24 +29,6 @@ Milestone E
 Milestone R
 
 ---
-
-Figure 4 – PV system evolution and premature disposal
-
-To generate Figure 4, a simulation was conducted to estimate:
-
-Number of installed PV systems over time
-Growth of installed capacity
-Corresponding module mass (in tonnes)
-
-In addition, an assumption was made that 23% of systems are subject to premature disposal, allowing evaluation of its potential impact on waste generation.
-
-The dataset used for Figure 3 is provided in Sheet 3.
-
-This analysis is based on historical data of grid-connected photovoltaic installations obtained from the Brazilian Distributed Generation Data Panel (PDGD), available at:
-https://dashboard.epe.gov.br/apps/pdgd/
-
----
-
 Data Dictionary
 
 A detailed description of all variables used in this study is provided in Metadata.
